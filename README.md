@@ -1,3 +1,5 @@
 # aula-pi-rep
-Esse é i repósitorio da aula de pi
+Esse é o repósitorio da aula de pi
 primeira alteração de repositório 
+
+
